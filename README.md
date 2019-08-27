@@ -1,6 +1,6 @@
 #user-signup-codeigniter
 
-Import assets/socialappdb.sql
+Import root/socialappdb.sql
 Make relevant changes in app/config/database.php
 
 Admin user
